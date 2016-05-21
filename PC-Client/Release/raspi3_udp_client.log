@@ -1,0 +1,10 @@
+﻿  udp_client.cpp
+e:\opencv\opencv-2.4.9\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          E:\Microsoft Visual Studio\VC\include\stdio.h(211) : 参见“fopen”的声明
+udp_client.cpp(49): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+          C:\Program Files (x86)\Windows Kits\8.1\Include\um\Winsock2.h(1850) : 参见“inet_addr”的声明
+udp_client.cpp(72): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          E:\Microsoft Visual Studio\VC\include\string.h(112) : 参见“strcpy”的声明
+  正在生成代码
+  已完成代码的生成
+  raspi3_udp_client.vcxproj -> G:\visual studio 2013\Projects\raspi3_udp_client\Release\raspi3_udp_client.exe
